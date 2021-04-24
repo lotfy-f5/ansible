@@ -1,0 +1,7 @@
+exclude_paths:
+  - nonGalaxy
+  - roles
+#warn_list:  # or 'skip_list' to silence them completely
+# - role-name
+# - unnamed-task  # All tasks should be named
+
